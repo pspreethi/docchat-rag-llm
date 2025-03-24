@@ -58,4 +58,9 @@ Ask a question (or type 'exit'):
 Embeddings: all-MiniLM-L6-v2 (via sentence-transformers) <br>
 LLM: microsoft/phi-1_5 (you can swap this in the code)
 
+## License
+
+This project is licensed under the MIT License 
+
+
 
